@@ -8,4 +8,4 @@ jobs:
   say_hello:
     runs-on: ubuntu-latest
     steps:
-      - run echo "hola mundo"
+      - run: echo "hola mundo"
